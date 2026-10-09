@@ -1,0 +1,18 @@
+# Java / Maven
+Backend/target/
+*.class
+
+# Node.js
+Frontend/node_modules/
+Frontend/build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
